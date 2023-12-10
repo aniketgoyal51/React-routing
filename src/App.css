@@ -1,0 +1,30 @@
+.head{
+  background-color: black;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+Link{
+  color: white;
+}
+
+.left, .right{
+  color: white;
+  text-decoration: none;
+}
+
+.right{
+  margin-left:20px;
+
+}
+
+.left{
+  font-size: 20px;
+  color: rgb(255, 67, 67);
+}
+
+h1{
+  text-align: center;
+}
