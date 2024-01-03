@@ -1,9 +1,9 @@
 import React from 'react'
-// import Nevigation from './nevigation'
+import Nevigation from './nevigation'
 const About = () => {
   return (
     <div>
-        {/* <Nevigation/> */}
+        <Nevigation/>
         <h1>About</h1>
     </div>
   )
